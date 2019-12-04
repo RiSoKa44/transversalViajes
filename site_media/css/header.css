@@ -1,0 +1,14 @@
+.navbar{
+    min-height: 125px;
+}
+
+.navbar-brand{
+    float: none;
+    height: 100px;
+}
+
+.nav-link{
+    font-size: 2em;
+    border: 0.1em solid black;
+    padding: 1em 1em;
+}

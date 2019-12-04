@@ -1,0 +1,19 @@
+@font-face {
+    font-family: BeautyMountains;
+    src: url('../BeautyMountainsP.ttf'); /* IE9 Compat Modes */
+  }
+
+body{
+    background-color: rgba(52,58,62,0.1);
+}
+
+.headindex{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.welcomeweb{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: BeautyMountains;
+}
